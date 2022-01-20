@@ -1,4 +1,15 @@
+/*
+1) Calculate Distance
+2) Add Distance to Max-Heap ( Priority Queue)
+3) Pop Top of Max Heap according to size
+4) Max Heap Stores Max Element 
+
+*/
+
+
 class Solution {
+
+
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
         //x1-x2 + y1+y2
